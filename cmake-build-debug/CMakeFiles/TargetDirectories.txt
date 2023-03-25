@@ -1,0 +1,3 @@
+/Users/seifmahmoud/Downloads/level 2 term 2/data structure/ass./P5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/seifmahmoud/Downloads/level 2 term 2/data structure/ass./P5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/seifmahmoud/Downloads/level 2 term 2/data structure/ass./P5/cmake-build-debug/CMakeFiles/P5.dir
